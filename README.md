@@ -2,3 +2,5 @@
 
 ## Udemy - 50 Projects In 50 Days - HTML, CSS & JavaScript
 ### Section 14: Day 13 - Random Choice Picker
+
+I fixed the error that if you press enter in the empty textarea, the original project generates 31 error messages.
